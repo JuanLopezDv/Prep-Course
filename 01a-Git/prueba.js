@@ -1,0 +1,1 @@
+// This is a document created with Git Bash on Windows, for probe the git codes and command lin.
